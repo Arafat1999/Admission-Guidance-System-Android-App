@@ -2,7 +2,7 @@
 Source Code:
 https://bit.ly/3fAa5Rh
 
-The system as the name clarifies is developed School, Colleges and Universities to help automate the
+Admission Guidance System (AGS) is developed for School, Colleges and Universities to help automate the
 admission procedure. The system is an internet-based application which can be accessed from anytime
 anywhere basis. The system has three tier access models. Applicants, User, System where the goal of 'Online
 Admission System' is to automate the Academic Institute’s admission structure and its related operation and
